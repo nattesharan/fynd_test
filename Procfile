@@ -1,0 +1,1 @@
+web: gunicorn fynd_test.wsgi --log-file -
