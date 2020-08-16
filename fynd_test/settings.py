@@ -25,7 +25,7 @@ SECRET_KEY = 'bl3jz_$35mgobb$8ug=mvsa%3ft*@&@fakk0hkbg26gzz@q6os'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://lazy-horse.herokuapp.com']
+ALLOWED_HOSTS = ['lazy-horse.herokuapp.com']
 
 
 # Application definition
